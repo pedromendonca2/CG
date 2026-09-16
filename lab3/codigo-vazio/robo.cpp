@@ -44,7 +44,7 @@ void Robo::RodaBraco3(GLfloat inc)
 
 void Robo::MoveEmX(GLfloat dx)
 {
-
+    glTranslatef(100, 0, 0);
 }
 
 //Funcao auxiliar de rotacao
